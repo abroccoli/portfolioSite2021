@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolioSite2021/static/css/main.bf44836a.chunk.css",
+    "main.js": "/portfolioSite2021/static/js/main.f8a4d90f.chunk.js",
+    "main.js.map": "/portfolioSite2021/static/js/main.f8a4d90f.chunk.js.map",
+    "runtime-main.js": "/portfolioSite2021/static/js/runtime-main.902bde00.js",
+    "runtime-main.js.map": "/portfolioSite2021/static/js/runtime-main.902bde00.js.map",
+    "static/js/2.9860108e.chunk.js": "/portfolioSite2021/static/js/2.9860108e.chunk.js",
+    "static/js/2.9860108e.chunk.js.map": "/portfolioSite2021/static/js/2.9860108e.chunk.js.map",
+    "static/js/3.63135bc8.chunk.js": "/portfolioSite2021/static/js/3.63135bc8.chunk.js",
+    "static/js/3.63135bc8.chunk.js.map": "/portfolioSite2021/static/js/3.63135bc8.chunk.js.map",
+    "index.html": "/portfolioSite2021/index.html",
+    "static/css/main.bf44836a.chunk.css.map": "/portfolioSite2021/static/css/main.bf44836a.chunk.css.map",
+    "static/js/2.9860108e.chunk.js.LICENSE.txt": "/portfolioSite2021/static/js/2.9860108e.chunk.js.LICENSE.txt",
+    "static/media/AnthonyBroccoliResume.74784699.pdf": "/portfolioSite2021/static/media/AnthonyBroccoliResume.74784699.pdf",
+    "static/media/hiking_headshot.7f14ae25.jpg": "/portfolioSite2021/static/media/hiking_headshot.7f14ae25.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.902bde00.js",
+    "static/js/2.9860108e.chunk.js",
+    "static/css/main.bf44836a.chunk.css",
+    "static/js/main.f8a4d90f.chunk.js"
+  ]
+}
