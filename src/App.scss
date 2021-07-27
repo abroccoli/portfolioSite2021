@@ -1,0 +1,48 @@
+html, body {
+  background-color: black;
+}
+
+.App {
+  text-align: center;
+  color: white;
+}
+
+.headshot-image {
+  margin-top: 100px;
+  width: 100%;
+  max-width: 450px;
+}
+
+.adjective-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+.adjective-item {
+  margin: 0 auto 10px auto;
+
+  &:last-of-type {
+    margin-bottom: 0;
+  }
+}
+
+.resume-link {
+  display: block;
+  color: white;
+  margin-bottom: 25px;
+  font-size: 25px;
+  text-decoration: none;
+  
+  &:hover {
+    span {
+      text-decoration: underline;
+    }
+  }
+
+  &:visited {
+    color: white;
+  }
+}
